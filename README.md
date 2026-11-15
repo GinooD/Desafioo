@@ -1,0 +1,1 @@
+Este proyecto tiene como función determinar si una entrada está vencida o activa para que no ocurra ningún problema a la hora de verificar estas entradas. El código te pide el número de tu entrada como también los días que tiene para el vencimiento y luego con esa información muestra si es válida o no la entrada.
